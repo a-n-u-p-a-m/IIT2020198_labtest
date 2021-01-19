@@ -8,8 +8,7 @@ int summation(int n)
     // Variable to store the sum 
     int sum = 0; 
   
-    // Loop to iterate each number 
-    // from 1 to N 
+    
     for (int i = 1; i <= n; i++) { 
   
         // The alternating sign is put 
@@ -26,7 +25,7 @@ int summation(int n)
     return sum; 
 } 
   
-// Driver code 
+
 int main() 
 { 
     int N;
